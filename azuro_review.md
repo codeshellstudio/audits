@@ -66,7 +66,7 @@ The following number of issues were found:
 |  Numeration     | Title       | Severity      | status |
 | ------ | ---------------- | ------------- | ---
 | [M-01] | Relayer approval lost if LP is changed | Medium | Fixed
-| [M-02] | Winning outcomes is not checked for duplicates when resolving | Medium | Acknowledged
+| [M-02] | Winning outcomes is not checked for duplicates when resolving | Medium | Fixed
 | [L-01] | winningOutcomesCount should be below or equal to conditionData.outcomes | Low | Fixed
 | [L-02] | conditionData.outcomes is not checked for duplicates when creating a condition | Low | Fixed
 | [L-03] | minOdds duplicate in betData | Low | Acknowledged
