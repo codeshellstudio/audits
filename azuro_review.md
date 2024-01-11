@@ -8,7 +8,9 @@ Dates:
 04 December 2023 - 18 December 2023
 
 Azuro is a betting protocol that enables peer-to-pool betting without intermediaries. It's built on EVM-compatible blockchains and consists of several smart contracts that handle different aspects of the betting process, such as liquidity pools, betting conditions, live betting, and payouts. 
+
 https://azuro.org/
+
 https://gem.azuro.org/concepts/overview
 
 CodeShell is a team of blockchain security experts.
