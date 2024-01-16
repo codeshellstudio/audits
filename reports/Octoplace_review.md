@@ -193,3 +193,4 @@ To fix the syntax error
 
 The audit does not provide any guarantees or assurances regarding the code's usefulness, code safety, suitability of the business model, investment advice, endorsement of the platform or its products, regulatory framework for the business model, or any other statements regarding the contracts' fitness for purpose or their bug-free status. The audit documentation is intended for discussion purposes only. The information presented in this report is both confidential and privileged. By reading this report, you agree to maintain its confidentiality and not to copy, disclose, or distribute it without the Client's agreement. If you are not the intended recipient(s) of this document, please be aware that any disclosure, copying, or distribution of its contents is strictly prohibited.
 Previous name of the auditor - OddSequence.
+
